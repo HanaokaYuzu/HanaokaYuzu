@@ -28,15 +28,15 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=HanaokaYuzu&theme=dark&hide_border=true"
+      srcset="https://git-hub-streak-stats.vercel.app/?user=HanaokaYuzu&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=HanaokaYuzu&theme=vue&hide_border=true"
+      srcset="https://git-hub-streak-stats.vercel.app/?user=HanaokaYuzu&theme=vue&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=HanaokaYuzu&theme=vue&hide_border=true"
+      src="https://git-hub-streak-stats.vercel.app/?user=HanaokaYuzu&theme=vue&hide_border=true"
       width="47.6%" alt="GitHub Streak"
     />
   </picture>
