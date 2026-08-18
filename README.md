@@ -14,30 +14,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=HanaokaYuzu&theme=dark&show_icons=true&hide_border=true&count_private=true"
+      srcset="https://ghstats.dev/api/card?username=hanaokayuzu&hide_border=true&hide=hours%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cissues%2Cstreak%2Cgrade%2Crepos%2Cprs"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=HanaokaYuzu&theme=vue&show_icons=true&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://ghstats.dev/api/card?username=hanaokayuzu&theme=light&hide_border=true&hide=hours%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cissues%2Cstreak%2Cgrade%2Crepos%2Cprs"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=HanaokaYuzu&theme=dark&show_icons=true&hide_border=true&count_private=true"
-      width="45%" alt="GitHub Stats"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://git-hub-streak-stats.vercel.app/?user=HanaokaYuzu&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://git-hub-streak-stats.vercel.app/?user=HanaokaYuzu&theme=vue&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://git-hub-streak-stats.vercel.app/?user=HanaokaYuzu&theme=vue&hide_border=true"
-      width="47.6%" alt="GitHub Streak"
+      src="https://ghstats.dev/api/card?username=hanaokayuzu&hide_border=true&hide=hours%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cissues%2Cstreak%2Cgrade%2Crepos%2Cprs"
+      width="50%" alt="GitHub Stats"
     />
   </picture>
 </p>
